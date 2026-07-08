@@ -1,4 +1,4 @@
-﻿# Tab Completion Framework for Spigot/Paper
+﻿## Tab Completion Framework for Spigot/Paper
 
 [![Minecraft API](https://img.shields.io/badge/Minecraft-1.16.5--1.21-5f9ea0?logo=spigotmc&logoColor=white)](https://www.spigotmc.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=opensourceinitiative&logoColor=yellow)](https://opensource.org/licenses/MIT)

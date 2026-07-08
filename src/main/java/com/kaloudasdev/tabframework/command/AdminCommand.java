@@ -1,6 +1,6 @@
-﻿package com.kaloudasdev.tabframework.command;
-import com.kaloudasdev.tabframework.TabFrameworkPlugin;
-import com.kaloudasdev.tabframework.manager.BanManager;
+﻿package com.giaxasidis.tabframework.command;
+import com.giaxasidis.tabframework.TabFrameworkPlugin;
+import com.giaxasidis.tabframework.manager.BanManager;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

@@ -1,8 +1,8 @@
 ﻿name: TabCompletionFramework
 version: 1.0.0
-main: com.kaloudasdev.tabframework.TabFrameworkPlugin
+main: com.giaxasidis.tabframework.TabFrameworkPlugin
 api-version: 1.16
-author: KaloudasDev
+author: Giaxasidis
 description: Tab completion framework for Spigot/Paper plugins
 commands:
   tab:

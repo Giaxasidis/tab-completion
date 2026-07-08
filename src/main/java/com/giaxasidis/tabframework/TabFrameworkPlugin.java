@@ -1,7 +1,7 @@
-﻿package com.kaloudasdev.tabframework;
-import com.kaloudasdev.tabframework.command.AdminCommand;
-import com.kaloudasdev.tabframework.command.AdminCommandTabCompleter;
-import com.kaloudasdev.tabframework.manager.BanManager;
+﻿package com.giaxasidis.tabframework;
+import com.giaxasidis.tabframework.command.AdminCommand;
+import com.giaxasidis.tabframework.command.AdminCommandTabCompleter;
+import com.giaxasidis.tabframework.manager.BanManager;
 import org.bukkit.plugin.java.JavaPlugin;
 public final class TabFrameworkPlugin extends JavaPlugin {
     private static TabFrameworkPlugin instance;

@@ -1,5 +1,5 @@
-﻿package com.kaloudasdev.tabframework.manager;
-import com.kaloudasdev.tabframework.TabFrameworkPlugin;
+﻿package com.giaxasidis.tabframework.manager;
+import com.giaxasidis.tabframework.TabFrameworkPlugin;
 import org.bukkit.entity.Player;
 import java.io.*;
 import java.util.*;

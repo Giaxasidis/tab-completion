@@ -1,5 +1,5 @@
-﻿package com.kaloudasdev.tabframework.command;
-import com.kaloudasdev.tabframework.TabFrameworkPlugin;
+﻿package com.giaxasidis.tabframework.command;
+import com.giaxasidis.tabframework.TabFrameworkPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
