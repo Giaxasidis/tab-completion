@@ -42,7 +42,7 @@ Reference implementation demonstrating contextual argument suggestion for Minecr
 ### 1. Build the Plugin
 
 ```bash
-git clone https://github.com/KaloudasDev/tab-completion.git
+git clone https://github.com/Giaxasidis/tab-completion.git
 cd tab-completion
 mvn clean package
 ```
@@ -125,7 +125,7 @@ public class BanManager {
 |-----------|---------|-----------------|
 | Primary commands | `/tab [TAB]` | ban, unban, kick, reload |
 | Player completion | `/tab ban [TAB]` | List of online players |
-| Duration completion | `/tab ban Kaloudas [TAB]` | 10s, 30s, 1m, 5m, 10m, 30m, 1h, 2h, 6h, 12h, 1d, 2d, 7d, 30d |
+| Duration completion | `/tab ban Giaxasidis [TAB]` | 10s, 30s, 1m, 5m, 10m, 30m, 1h, 2h, 6h, 12h, 1d, 2d, 7d, 30d |
 | Unban completion | `/tab unban [TAB]` | List of banned players |
 | Prefix filtering | `/tab b[TAB]` | ban |
 | Permission restriction | Non-op user executing `/tab [TAB]` | No suggestions |
@@ -207,7 +207,3 @@ Contributions are welcome. Please ensure:
 3. Permission checks precede all suggestion generation  
 4. tream operations use appropriate null safety
 5. Documentation updated for new features
-
-## License
-
-MIT © [KaloudasDev](https://github.com/KaloudasDev)
